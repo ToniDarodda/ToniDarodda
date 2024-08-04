@@ -22,4 +22,4 @@ I'm a FullStack Developer and Cloud Architect with a passion for creating scalab
 
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/toni-da-rodda-414233204/)
 - **Medium**: [Read my articles](https://medium.com/@toni.da.rodda.pro)
-- **Email**: [toni.darodda@example.com](mailto:toni.da.rodda.pro@gmail.com)
+- **Email**: [toni.da.rodda.pro@gmail.com](mailto:toni.da.rodda.pro@gmail.com)
