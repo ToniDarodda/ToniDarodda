@@ -13,7 +13,6 @@ I'm a FullStack Developer and Cloud Architect with a passion for creating scalab
 
 ### Current Focus
 
-- **📘 Learning**: Deepening my knowledge in cybersecurity and data science at UCLA.
 - **🌐 AWS Progression**: Enhancing my skills and certifications in AWS.
 - **🚀 FullStack Projects**: Working on innovative full stack projects.
 - **🛠️ Freelancing**: Available for freelance work and collaboration on exciting projects.
