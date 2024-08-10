@@ -4,6 +4,11 @@
 
 I'm a FullStack Developer and Cloud Architect with a passion for creating scalable and robust solutions. I specialize in JavaScript, TypeScript, and AWS, and have experience with a variety of other technologies.
 
+### Certifications
+
+- **AWS Certified Solutions Architect – Associate**: Demonstrated expertise in designing distributed systems on AWS.
+  [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/6d4ced4f-df75-428b-8024-4236eefb8d5a/public_url)
+
 ### What I Do
 
 - **🌩️ Cloud Architecture**: Design and optimize cloud infrastructures.
@@ -24,3 +29,5 @@ I'm a FullStack Developer and Cloud Architect with a passion for creating scalab
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/toni-da-rodda-414233204/)
 - **Medium**: [Read my articles](https://medium.com/@toni.da.rodda.pro)
 - **Email**: [toni.da.rodda.pro@gmail.com](mailto:toni.da.rodda.pro@gmail.com)
+
+---
