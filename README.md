@@ -17,6 +17,8 @@ I'm a FullStack Developer and Cloud Architect with a passion for creating scalab
 - **🚀 FullStack Projects**: Working on innovative full stack projects.
 - **🛠️ Freelancing**: Available for freelance work and collaboration on exciting projects.
 
+- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ToniDaRodda)
+
 ### Let's Connect
 
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/toni-da-rodda-414233204/)
