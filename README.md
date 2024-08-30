@@ -1,3 +1,7 @@
+Certainly! I'll add a section for your portfolio. You can include a brief description of what people can expect to find there and a link to your portfolio site. Here's an updated version with the new section:
+
+---
+
 ## Hi there, I'm Toni Da Rodda 👋
 
 ### About Me
@@ -23,6 +27,12 @@ I'm a FullStack Developer and Cloud Architect with a passion for creating scalab
 - **🛠️ Freelancing**: Available for freelance work and collaboration on exciting projects.
 
 - ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ToniDaRodda)
+
+### Portfolio
+
+Check out my portfolio to see some of the projects I've been working on and to get a sense of my work and expertise. 
+
+- **Portfolio**: [Explore My Work](www.tonidarodda.com)
 
 ### Let's Connect
 
