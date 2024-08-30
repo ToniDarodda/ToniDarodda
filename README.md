@@ -1,4 +1,3 @@
-Certainly! I'll add a section for your portfolio. You can include a brief description of what people can expect to find there and a link to your portfolio site. Here's an updated version with the new section:
 
 ---
 
