@@ -31,7 +31,7 @@ I'm a FullStack Developer and Cloud Architect with a passion for creating scalab
 
 Check out my portfolio to see some of the projects I've been working on and to get a sense of my work and expertise. 
 
-- **Portfolio**: [Explore My Work](www.tonidarodda.com)
+- **Portfolio**: [Explore My Work](https://www.tonidarodda.com)
 
 ### Let's Connect
 
