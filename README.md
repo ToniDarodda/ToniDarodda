@@ -38,5 +38,6 @@ Check out my portfolio to see some of the projects I've been working on and to g
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/toni-da-rodda-414233204/)
 - **Medium**: [Read my articles](https://medium.com/@toni.da.rodda.pro)
 - **Email**: [toni.da.rodda.pro@gmail.com](mailto:toni.da.rodda.pro@gmail.com)
+- **Malt**: [Hire me](https://www.malt.fr/profile/tonidarodda)
 
 ---
