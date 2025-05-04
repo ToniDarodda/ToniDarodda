@@ -5,7 +5,7 @@
 
 ### About Me
 
-I'm a FullStack Developer and Cloud Architect with a passion for creating scalable and robust solutions. I specialize in JavaScript, TypeScript, and AWS, and have experience with a variety of other technologies.
+I'm a Software engineer with a passion for creating scalable and robust solutions. I specialize in JavaScript, TypeScript, and AWS, and have experience with a variety of other technologies.
 
 ### Certifications
 
